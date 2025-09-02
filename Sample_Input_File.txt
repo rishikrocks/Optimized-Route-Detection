@@ -1,0 +1,16 @@
+NewYork Boston 340
+NewYork Philadelphia 150
+Philadelphia WashingtonDC 225
+Boston Chicago 1360
+Chicago Denver 1610
+Denver LasVegas 1200
+LasVegas LosAngeles 435
+LosAngeles SanFrancisco 615
+Chicago Atlanta 950
+Atlanta Miami 1060
+Atlanta Dallas 1150
+Dallas Houston 385
+Dallas Denver 1250
+Houston Miami 1550
+WashingtonDC Atlanta 1010
+END OF INPUT
